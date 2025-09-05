@@ -1,0 +1,53 @@
+﻿<Window x:Class="TempConverter.MainWindow"
+
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+xmlns:local="clr-namespace:TempConverter"
+
+mc:Ignorable="d"
+
+Title="Temperature Converter" Height="300" Width="300">
+
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="Auto"/>
+
+            <RowDefinition Height="Auto"/>
+
+            <RowDefinition Height="Auto"/>
+
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="Auto"/>
+
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Celsius:" Grid.Row="0" Grid.Column="0" Margin="5"/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" Width="100" Height="25" Margin="5" Text="{Binding Celsius, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <TextBlock Text="Fahrenheit:" Grid.Row="1" Grid.Column="0" Margin="5"/>
+
+        <TextBox Grid.Row="1" Grid.Column="1" Width="100" Height="25" Margin="5" Text="{Binding Farenheit, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" />
+
+        <Button Content="Log Conversion" Grid.Row="2" Grid.ColumnSpan="2" Width="100" Height="25" Margin="5" Command="{Binding LogCommand}"/>
+
+        <ListBox Grid.Row="3" Grid.ColumnSpan="2" Margin="5" ItemsSource="{Binding ConversionLogs}"/>
+
+    </Grid>
+
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe.config
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.pdb
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.AssemblyReference.cache
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\App.g.cs
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp_MarkupCompile.cache
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp_MarkupCompile.lref
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\Views\MainWindow.baml
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.g.resources
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Properties.Resources.resources
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.cache
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.exe
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\skamble\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.exe.config

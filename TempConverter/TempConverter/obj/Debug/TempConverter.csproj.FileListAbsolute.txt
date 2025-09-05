@@ -1,0 +1,16 @@
+C:\Users\skamble\source\repos\TempConverter\TempConverter\bin\Debug\TempConverter.exe.config
+C:\Users\skamble\source\repos\TempConverter\TempConverter\bin\Debug\TempConverter.exe
+C:\Users\skamble\source\repos\TempConverter\TempConverter\bin\Debug\TempConverter.pdb
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.csproj.AssemblyReference.cache
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\Views\MainWindow.g.cs
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\App.g.cs
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter_MarkupCompile.cache
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter_MarkupCompile.lref
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\Views\MainWindow.baml
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.g.resources
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.Properties.Resources.resources
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.csproj.GenerateResource.cache
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.exe
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.pdb
+C:\Users\skamble\source\repos\TempConverter\TempConverter\obj\Debug\TempConverter.exe.config
